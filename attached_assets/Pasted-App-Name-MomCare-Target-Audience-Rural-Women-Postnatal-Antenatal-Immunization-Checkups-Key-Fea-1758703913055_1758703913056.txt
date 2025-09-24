@@ -1,0 +1,71 @@
+App Name: MomCare
+Target Audience: Rural Women (Postnatal, Antenatal, Immunization Checkups)
+Key Features:
+
+Notifications: SMS, voice messages (in local language), WhatsApp messages to remind mothers of upcoming checkups.
+
+QR Scanning: Local health caretakers can scan a QR code to track patient checkups digitally, eliminating the need for physical records.
+
+Progress Panel: Simple badges and achievements for each completed checkup to encourage participation.
+
+Caretaker Alerts: If a mother misses a checkup, the assigned caretaker is notified to perform a follow-up visit.
+
+Simple User Interface: The design must be minimalistic and easy to navigate, keeping in mind the rural women who may not be familiar with complex apps.
+
+Design and Features Instructions:
+
+Home Screen:
+
+Simplified Interface: Use large buttons with clear, readable text. Focus on the most important actions (e.g., "Next Checkup," "Track Progress").
+
+Progress Tracker: Display a simple progress bar showing how many checkups are done vs. how many are remaining (Antenatal, Postnatal, Immunization).
+
+Next Appointment: Display the next scheduled checkup with a prominent button that says "Confirm Checkup" or "Reschedule."
+
+Voice Message/Notifications: Provide an option to hear the notifications in the local language (audio support).
+
+Caretaker’s Dashboard:
+
+QR Scanning: Implement a section where the caretaker can scan the QR code to get all the checkup details and confirm appointments digitally.
+
+Follow-up Reminder: Caretakers receive an immediate notification via SMS or WhatsApp if a mother misses her checkup.
+
+One-Tap Call to Mother: Include a button for the caretaker to immediately call the mother if follow-up is required.
+
+Notifications:
+
+SMS & Voice Notifications: Send SMS reminders and a voice message to the mother 24 hours before the checkup.
+
+WhatsApp Updates: Simple, localized reminders in WhatsApp, along with interactive buttons for rescheduling or confirming the checkup.
+
+Caretaker Notifications: Send a notification to the caretaker if the mother misses the checkup, including the mother’s name, phone number, and a link to track her record.
+
+Language & Accessibility:
+
+Multi-language Support: Include local language support for both the app interface and notifications. Ensure text-to-speech functionality for mothers who may have difficulty reading.
+
+Minimal Text: Use simple, clear language with icons and pictures to guide users. Avoid complicated terminology.
+
+Big, Touchable Buttons: For easy navigation with larger fingers, ensuring it’s user-friendly for mothers with limited tech experience.
+
+Progress Panel:
+
+Badges and Achievements: Show progress with badges for completed checkups (e.g., "1st Checkup Complete," "Immunization Done"). These badges motivate and celebrate progress.
+
+Simple Stats: Display a simple tally like “Checkups Done: 3/5” or “Immunizations Completed: 2/3” with visual representations.
+
+Key Constraints:
+
+Simplicity First: The UI should be designed with minimal distractions. Focus only on the most important actions to make navigation straightforward.
+
+User Flow: Ensure the navigation is intuitive. There should be no more than 3-4 taps to get to any major function (e.g., confirming an appointment, seeing progress, contacting the caretaker).
+
+Low-bandwidth: Optimize the app to load quickly, even on low-bandwidth connections, since rural areas may have limited internet speed.
+
+Expected Outcome:
+
+Easy App Use: A streamlined, intuitive, and user-friendly experience for rural mothers and health caretakers.
+
+Effective Notifications: Use a combination of SMS, voice messages, and WhatsApp for consistent and easily understood reminders.
+
+Complete Digital Tracking: No physical record required—everything is done digitally through QR codes, ensuring ease for both mothers and caretakers.
