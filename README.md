@@ -51,8 +51,9 @@ The **MomCare** project contributes to building a healthier rural community thro
 ---
 
 ## 👤 Developer
-**Name:**Ryhan Raza
-**GitHub:** [https://github.com/razaryhan786](https://github.com/razaryhan786)
+Name: Ryhan Raza
+
+**GitHub:** https://github.com/Ryhan110
 
 ---
 
